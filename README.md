@@ -1,2 +1,2 @@
 - Lisp lover 
-- my blog: https://mooneclipsed.github.io/liuyue-blog/
+- my blog: mooneclipsed.github.io
